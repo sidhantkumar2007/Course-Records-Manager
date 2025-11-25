@@ -1,0 +1,4 @@
+id,regNo,fullName,email,status
+1,REG2025001,Ankit Sharma,ankit@example.com,ACTIVE
+2,REG2025002,Priya Verma,priya@example.com,ACTIVE
+3,REG2025003,Rahul Singh,rahul@example.com,INACTIVE
